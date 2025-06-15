@@ -29,9 +29,10 @@ github_username:  hmortazavi89
 header_pages:
   - projects.md
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
+exclude: [_site, .gitignore]
 
 # Exclude from processing.
 # The following items will not be processed, by default.
