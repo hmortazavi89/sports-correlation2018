@@ -1,6 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+# Welcome to My Portfolio
+Hi, I'm Hamid, a data scientist specializing in machine learning and data science. Explore my [projects](/projects/).
