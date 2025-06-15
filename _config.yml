@@ -29,7 +29,7 @@ github_username:  hmortazavi89
 header_pages:
   - projects.md
 # Build settings
-theme: cayman
+theme: minima
 plugins:
   - jekyll-feed
 
